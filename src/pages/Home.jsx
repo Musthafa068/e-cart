@@ -27,7 +27,7 @@ function Home() {
             <Header insideHome={true}/>
 
             <div style={{ 
-                background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+                background: 'linear-gradient(135deg, #7DDA58 0%, #7DDA58 100%)',
                 minHeight: '300px',
                 marginTop: '80px',
                 display: 'flex',
